@@ -1,2 +1,2 @@
-# HangmanGame
-This is a hangman game coded in python
+# Data Science Tasks
+It includes all the data science related python programs
